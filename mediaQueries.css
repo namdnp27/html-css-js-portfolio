@@ -71,6 +71,14 @@
         flex-wrap: wrap;
     }
 
+    .experience-container {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: 80vw;
+        justify-self: center;
+    }
+
     .contact-info-container {
         margin: 0;
     }
