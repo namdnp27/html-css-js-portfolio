@@ -302,7 +302,7 @@ section {
 
 .details-container {
     padding: 1.5rem;
-    flex: 1;
+    flex: 0.5;
     background: white;
     border-radius: 2rem;
     border: rgb(53, 53, 53) 0.1rem solid;
@@ -335,9 +335,10 @@ section {
 }
 
 .experience-details-container {
-    display: flex;
+    /* /* display: flex;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: column; */
+    */
 }
 
 .article-container {

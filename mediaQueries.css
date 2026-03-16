@@ -79,8 +79,12 @@
         justify-self: center;
     }
 
+    .contact-info-upper-container {
+        display: block;
+    }
+
     .contact-info-container {
-        margin: 0;
+        margin: 1rem 0;
     }
 
     .contact-info-container p,
